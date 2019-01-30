@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Calls>
+  <NormalMethodCall
+  Class="P08a_Interpreter.SomeClass"
+  Method="GetString" />
+</Calls>
